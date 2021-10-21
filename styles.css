@@ -391,31 +391,7 @@ h3.menu-item-title {
   }
 }
 /********** First Section **************************************************/
-h1 {
-  margin-bottom: 20px;
-  text-align: center;
-  text-shadow:   0px 0px 0 rgb(133,38,221),
-                 1px 1px 0 rgb(128,33,216),
-                 2px 2px 0 rgb(123,28,211),
-                 3px 3px 0 rgb(118,23,206),
-                 4px 4px 0 rgb(113,18,201),
-                 5px 5px 0 rgb(108,13,196),
-                 6px 6px 0 rgb(103,8,191),
-                 7px 7px 0 rgb(98,3,186),
-                 8px 8px 0 rgb(93,-2,181),
-                 9px 9px 0 rgb(88,-7,176),
-                 10px 10px  0 rgb(83,-12,171),
-                 11px 11px 10px rgba(0,0,0,0.6),
-                 11px 11px 1px rgba(0,0,0,0.5),
-                 0px 0px 10px rgba(0,0,0,.2);
-  font-size: 7em;
 
- }
-
-body{
-  margin: 40px;
-  padding: 0;
-}
 
 section{
   clear: left;
