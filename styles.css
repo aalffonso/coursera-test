@@ -25,6 +25,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
+  float: left;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
@@ -302,7 +303,7 @@ h3.menu-item-title {
   /* End Header */
   
   /* Home page */
-  #menu-tile, #specials-tile {
+  #chiken, #beef {
     width: 280px;
     margin: 0 auto 15px;
   }
