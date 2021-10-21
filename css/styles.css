@@ -22,7 +22,7 @@ h1 {
                  11px 11px 10px rgba(0,0,0,0.6),
                  11px 11px 1px rgba(0,0,0,0.5),
                  0px 0px 10px rgba(0,0,0,.2);
-  font-size: 7em;
+  font-size: 5em;
 
  }
 
@@ -38,20 +38,14 @@ body{
   border: 0;
 }
 
-#logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
-  margin: 10px 15px 10px 0;
-}
-
 .navbar-brand {
   padding-top: 25px;
+  height: 15px;
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #0A0A01;
-  font-size: 1.5em;
+  color: #FCFCFC;
+  font-size: 3em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
@@ -68,7 +62,7 @@ body{
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #FCFCFC;
   text-align: center;
 }
 #nav-list a:hover {
@@ -78,21 +72,8 @@ body{
   font-size: 1.8em;
 }
 
-#phone {
-  margin-top: 5px;
-}
-#phone a { /* Phone number */
-  text-align: right;
-  padding-bottom: 0;
-}
-#phone div { /* We Deliver */
-  color: #557c3e;
-  text-align: right;
-  padding-right: 15px;
-}
-
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #FCFCFC;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -134,7 +115,8 @@ p {
   border-style: dotted;
   font-weight: bold;
   font-size: 35px;
-  margin-right: 5px;
+  text-align: center;
+  margin-right: 0;
   margin-top: 14px;
   width:100%;
 }
